@@ -7,3 +7,5 @@ Projects built during E-biznes classes at Jagiellonian University
 ❌ 4.0  Do powyższego należy dodać najnowszego Gradle’a oraz paczkę JDBC SQLite w ramach projektu na Gradle (build.gradle) |  
 ❌ 4.5 Należy stworzyć przykład typu HelloWorld oraz uruchomienie aplikacji przez CMD oraz gradle |   
 ❌ 5.0 Należy dodać konfigurację docker-compose |   
+
+Link to docker hub Docker Hub Image - [Link](https://hub.docker.com/repository/docker/kamilp67/my-first-repo/general)
