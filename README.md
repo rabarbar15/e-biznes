@@ -19,6 +19,6 @@ Link to docker hub Docker Hub Image - [Link](https://hub.docker.com/repository/d
 ## Zadanie 5 - Frontend
 ✅ 3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w Produktach powinniśmy pobierać dane o produktach z aplikacji serwerowej ; 3.5 Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing    
 ✅ 4.0 Dane pomiędzy wszystkimi komponentami powinny być przesyłane za pomocą React hooks    
-❌ Należy dodać skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose    
-✅ Należy wykorzystać axios’a oraz dodać nagłówki pod CORS | [Commit](https://github.com/rabarbar15/e-biznes/commit/8d90b1e2b2e6e1a3a498c49f3b2e0c93e431f06e)    
+❌ 4.5 Należy dodać skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose    
+✅ 5.0 Należy wykorzystać axios’a oraz dodać nagłówki pod CORS | [Commit](https://github.com/rabarbar15/e-biznes/commit/8d90b1e2b2e6e1a3a498c49f3b2e0c93e431f06e)    
 
