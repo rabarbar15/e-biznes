@@ -22,3 +22,6 @@ Link to docker hub Docker Hub Image - [Link](https://hub.docker.com/repository/d
 ❌ 4.5 Należy dodać skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose    
 ✅ 5.0 Należy wykorzystać axios’a oraz dodać nagłówki pod CORS | [Commit](https://github.com/rabarbar15/e-biznes/commit/8d90b1e2b2e6e1a3a498c49f3b2e0c93e431f06e)    
 
+## Zadanie 5 - Tests
+✅ 3.0 Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium (Kotlin, Python, Java, JS, Go, Scala) | [Commit](https://github.com/rabarbar15/e-biznes/commit/8b850f57c6a9cf6d1f8967dfec5233f434d28d45)    
+
