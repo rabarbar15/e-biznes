@@ -26,6 +26,12 @@ Link to docker hub Docker Hub Image - [Link](https://hub.docker.com/repository/d
 ## Zadanie 6 - Tests
 ✅ 3.0 Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium (Kotlin, Python, Java, JS, Go, Scala) | [Commit](https://github.com/rabarbar15/e-biznes/commit/8b850f57c6a9cf6d1f8967dfec5233f434d28d45)    
 
+## Zadanie 7 - Sonar    
+✅ 3.0 Należy dodać litera do odpowiedniego kodu aplikacji serwerowej w hookach gita | [Commit](https://github.com/rabarbar15/e-biznes/commit/51809841d8f849f6028dc9b9ee3fdc8a7569f264)    
+✅ 3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod aplikacji serwerowej) | [Commit](https://github.com/rabarbar15/e-biznes/commit/1b696a9dec6435a17d3ce39062d6f6c997a76fcc)    
+✅ 4.0 Należy wyeliminować wszystkie zapaszki w kodzie w Sonarze (kod aplikacji serwerowej) | [Commit](https://github.com/rabarbar15/e-biznes/commit/1b696a9dec6435a17d3ce39062d6f6c997a76fcc)    
+✅ 4.5 Należy wyeliminować wszystkie podatności oraz błędy bezpieczeństwa w kodzie w Sonarze (kod aplikacji serwerowej) | [Commit](https://github.com/rabarbar15/e-biznes/commit/1b696a9dec6435a17d3ce39062d6f6c997a76fcc)   
+
 ## Zadanie 8 - Oauth2
 ✅ 3.0 logowanie przez aplikację serwerową (bez Oauth2)     
 ✅ 3.5 rejestracja przez aplikację serwerową (bez Oauth2) | [Commit](https://github.com/rabarbar15/e-biznes/commit/439de59612dd4583a19d064a5ac9b1746dcc9223)    
