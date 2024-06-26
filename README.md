@@ -13,6 +13,11 @@ Link to docker hub Docker Hub Image - [Link](https://hub.docker.com/repository/d
 ## Zadanie 2 - Scala
 ✅ 3.0 Należy stworzyć kontroler do Produktów | [Commit](https://github.com/rabarbar15/e-biznes/commit/1f05bf7a3fc94b8ec0d605d9a5b358007b54bac7)   
 
+
+## Zadanie 3 - Kotlin   
+✅ 3.0 Należy stworzyć aplikację kliencką w Kotlinie we frameworku Ktor, która pozwala na przesyłanie wiadomości na platformę Discord   
+✅ 3.5 Aplikacja jest w stanie odbierać wiadomości użytkowników z platformy Discord skierowane do aplikacji (bota) | [Commit](https://github.com/rabarbar15/e-biznes/commit/c9113f97343b7a3a78c3c10beab6fe480aa04c33)    
+
 ## Zadanie 4 - Go
 ✅ 3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie miała kontroler Produktów zgodny z CRUD | [Commit](https://github.com/rabarbar15/e-biznes/commit/20d11ca1864fd809337b1db160b5b25f0837367e)    
 
