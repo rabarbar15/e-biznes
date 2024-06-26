@@ -41,3 +41,6 @@ Link to docker hub Docker Hub Image - [Link](https://hub.docker.com/repository/d
 ✅ 3.0 logowanie przez aplikację serwerową (bez Oauth2)     
 ✅ 3.5 rejestracja przez aplikację serwerową (bez Oauth2) | [Commit](https://github.com/rabarbar15/e-biznes/commit/439de59612dd4583a19d064a5ac9b1746dcc9223)    
 
+## Zadanie 9 - ChatGPT bot   
+✅ 3.0 należy stworzyć po stronie serwerowej osobny serwis do łącznia z chatGPT do usługi chat | [Commit](https://github.com/rabarbar15/e-biznes/commit/6877f3de3316068709c8a51f88297a557e3c4c62)    
+
