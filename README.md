@@ -44,3 +44,5 @@ Link to docker hub Docker Hub Image - [Link](https://hub.docker.com/repository/d
 ## Zadanie 9 - ChatGPT bot   
 ✅ 3.0 należy stworzyć po stronie serwerowej osobny serwis do łącznia z chatGPT do usługi chat | [Commit](https://github.com/rabarbar15/e-biznes/commit/6877f3de3316068709c8a51f88297a557e3c4c62)    
 
+## Zadanie 10 - Chmura/CI   
+✅ 3.0 Należy stworzyć odpowiednie instancje po stronie chmury na dockerze | [Commit](https://github.com/rabarbar15/e-biznes/commit/193aff369abce9854f34d759faaeb72a9772def7)    
