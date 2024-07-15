@@ -46,3 +46,8 @@ Link to docker hub Docker Hub Image - [Link](https://hub.docker.com/repository/d
 
 ## Zadanie 10 - Chmura/CI   
 ✅ 3.0 Należy stworzyć odpowiednie instancje po stronie chmury na dockerze | [Commit](https://github.com/rabarbar15/e-biznes/commit/193aff369abce9854f34d759faaeb72a9772def7)    
+[Frontend](https://frontendappcloud.azurewebsites.net/)    
+[Backend](https://backendappcloud.azurewebsites.net/)   
+
+https://github.com/user-attachments/assets/79af1c51-2677-4f59-b459-02e7ea5e2ef9
+
